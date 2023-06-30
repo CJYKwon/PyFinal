@@ -1,0 +1,1 @@
+export POSTGRES_URI="postgresql://postgres:Ghost1920@localhost:5432/project-profile"
